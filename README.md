@@ -54,7 +54,7 @@ Come over and say hi!
 
 #### Markdown-enabled version
 
-```
+---
 
 ## About Me
 
@@ -66,7 +66,7 @@ Hi there. I'm Kai. I hang out in chill worlds, talk shaders and world design, an
 
 > Come over and say hi!
 
-```
+---
 
 Now this isn't so much about fancy fonts or over-styling. I personally want clarity, accessibility, and giving users a profile tool that matches the rest of the overhaul VRChat has had lately. We don’t need more bloated asset bundles (looking at you, pride stickers). What we need is a way to express ourselves in our own words, with structure and style.
 
